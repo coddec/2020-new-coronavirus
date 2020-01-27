@@ -1,7 +1,8 @@
 
+
 # 2019/2020 New Coronavirus/Pneumonia (Info Websites) 新型冠状病毒 (信息网站)
 
-### 1. Wuhan Coronavirus (2019-nCoV) Global Cases (By JHU CSSE) - 约翰霍普斯金大学全球疫情扩散图
+### 1. Wuhan Coronavirus (2019-nCoV) Global Cases (By JHU CSSE)- 约翰霍普斯金大学全球疫情扩散图
 [https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ![Wuhan Coronavirus (2019-nCoV) Global Cases (By JHU CSSE) - 约翰霍普斯金大学全球疫情扩散图](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/map.png)
@@ -40,3 +41,23 @@
 #2019nCoV - [https://twitter.com/hashtag/2019nCoV](https://twitter.com/hashtag/2019nCoV)
 
 #CoronavirusOutbreak - [https://twitter.com/hashtag/CoronavirusOutbreak](https://twitter.com/hashtag/CoronavirusOutbreak)
+
+### 8. Flu & Ebola Map | Virus & Contagious Disease Surveillance
+[https://healthmap.org/](https://healthmap.org/)
+
+![Flu & Ebola Map | Virus & Contagious Disease Surveillance](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/healthmap.png)
+
+### 9. Global Incident Map Displaying Outbreaks Of All Varieties Of Diseases
+[https://outbreaks.globalincidentmap.com/](https://outbreaks.globalincidentmap.com/)
+
+![Global Incident Map Displaying Outbreaks Of All Varieties Of Diseases](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/outbreaks.png)
+
+### 10. BNO News - Tracking coronavirus: Map, data and timeline
+[https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
+
+![BNO News - Tracking coronavirus: Map, data and timeline](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/bno.png)
+
+### 11. The Contagion® Outbreak Monitor
+[https://www.contagionlive.com/outbreak-monitor](https://www.contagionlive.com/outbreak-monitor)
+
+![The Contagion® Outbreak Monitor](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/contagionlive.png)
