@@ -30,7 +30,7 @@
 ![世界卫生组织 - 新型冠状病毒](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/who-cn.png)
 
 ### 6. Weibo/微博 #Trend#/#热搜#
-#新冠状病毒# - [https://s.weibo.com/weibo?q=%23%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box](https://s.weibo.com/weibo?q=%23%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box)
+#冠状病毒# - [https://s.weibo.com/weibo?q=%23%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box](https://s.weibo.com/weibo?q=%23%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box)
 
 #新冠状病毒# - [https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%23&Refer=SWeibo_box)
 
