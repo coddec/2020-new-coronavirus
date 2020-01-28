@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="EL30nKb1kr2BVm2lqq0UVIbZ9Y9T8z4fbsG3z6Cyta8" />
 
 # 2019/2020 New Coronavirus/Pneumonia (Info Websites) 新型冠状病毒 (信息网站)
 
