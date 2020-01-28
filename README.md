@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="EL30nKb1kr2BVm2lqq0UVIbZ9Y9T8z4fbsG3z6Cyta8" />
-
 # 2019/2020 New Coronavirus/Pneumonia (Info Websites) 新型冠状病毒 (信息网站)
 
 ### 1. Wuhan Coronavirus (2019-nCoV) Global Cases (By JHU CSSE)- 约翰霍普斯金大学全球疫情扩散图
