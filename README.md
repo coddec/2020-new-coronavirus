@@ -43,7 +43,7 @@
 ### 8. Flu & Ebola Map | Virus & Contagious Disease Surveillance
 [https://healthmap.org/](https://healthmap.org/)
 
-![Flu & Ebola Map | Virus & Contagious Disease Surveillance](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/healthmap.png)
+![Flu, Ebola Map Virus, Contagious Disease Surveillance](https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/healthmap.png)
 
 ### 9. Global Incident Map Displaying Outbreaks Of All Varieties Of Diseases
 [https://outbreaks.globalincidentmap.com/](https://outbreaks.globalincidentmap.com/)
